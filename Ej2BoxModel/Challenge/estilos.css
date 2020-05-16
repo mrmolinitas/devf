@@ -1,0 +1,66 @@
+.logo {
+    /*border: 1px solid black;*/
+    margin: 30px 0px;
+}
+.l1{
+    /*border: 1px solid black;*/
+    margin: 0px 450px;
+}
+.Top{
+    /*border: 1px solid black;*/
+    padding-left: 1350px;
+}
+.Gmail{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Img{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.PP{
+    /*border: 1px solid black;*/
+    display: inline-block;
+}
+
+.pp1{
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+.ft1{
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+.Img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Ft{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    
+}
+.lsearch{
+    display: inline-block;
+    margin-left: 605px;
+    margin-top: 50px;
+}
+
+.lbutton{
+    margin-top: 50px;
+    margin-left: 625px;
+}
+
+.rad{
+    border-radius: 25px;
+    width: 250px;
+}

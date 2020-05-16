@@ -1,0 +1,136 @@
+.padre{
+    border: 1px solid black;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hijo{
+    border: 1px solid black;
+    height: 75%;
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hijo2{
+    border: 1px solid black;
+    height: 75%;
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nieto{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    
+}
+.nieto1{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.bis{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}
+
+.nieto2{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;    
+}
+
+.bis2{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}
+
+.nieto3{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.bis3{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}
+
+.nieto0{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+}
+
+.nieto4{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;    
+}
+
+.bis4{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}
+
+.nieto5{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.bis5{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}
+
+.nieto6{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;    
+}
+
+.bis6{
+    border: 1px solid black;
+    height: 30%;
+    width: 30%;
+}

@@ -1,0 +1,10 @@
+pwd: me indica en que carpeta estoy
+ls: Me indica que tengo en la carpeta donde estoy
+cd: cambio de directorio
+cd ..: te regresa una carpeta
+clear: te limpia la patalla
+mkdir: crea una carpeta
+touch: Crea un archivo
+rm: Quita archivos
+rm -f: borrar archivos
+nano: abre un editor de texto

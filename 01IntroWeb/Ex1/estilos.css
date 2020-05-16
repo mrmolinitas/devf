@@ -1,0 +1,37 @@
+*{
+    background-color: darkslateblue;
+}
+
+h1{
+    color: floralwhite;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+.my-icon{
+    color: teal;
+    font-size: 150px;
+}
+
+p{
+    color: crimson;
+    text-align: justify;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: crimson;
+}
+
+img {
+    width: 200px;
+}
+
+.im1{
+    width: 300px;
+}
+
+.im2{
+    width: 375px;
+}
+

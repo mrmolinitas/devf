@@ -1,0 +1,33 @@
+*{
+    background-color: darkslategray;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+p{
+    color: thistle;
+}
+
+.ig{
+    width: 50px;
+}
+
+.a{
+    color: teal;
+}
+.b{
+    color: orange;
+}
+
+.fb1{
+    width: 450px;
+}
+.fb2{
+    width: 450px;
+}
+.fb3{
+    width: 450px;
+}
